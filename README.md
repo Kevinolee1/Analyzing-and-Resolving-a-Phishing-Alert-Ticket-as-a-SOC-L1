@@ -4,3 +4,5 @@ The SOC Level 1 analyst is responsible for reviewing the email headers, sender i
 Login your SOC L1 account.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1/blob/0cf8fcf5e91e83b186b15b08e5ca2abb9dada984/Screenshot%202026-08-19%20094808.png)
 Click on the phishing alert ticket.
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1/blob/f0b10a72ec5bbc3aee5c4532fc5d07e1e52f70b0/Screenshot%202026-08-19%20100212.png)
+In the respond box, click on original message. Type in your Initial Analyst, analyst action, recommended investigation, disposition, and the resolution.   
