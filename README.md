@@ -8,3 +8,5 @@ Click on the phishing alert ticket.
 
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1/blob/2d2948a506b5c96af33ec4a7c85fa23f7e0c909b/Screenshot%202026-08-19%20142619.png)
 In the respond box, click on original message. Type in your Initial Analyst, analyst action, recommended investigation, disposition, and the resolution.   
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1/blob/8d449cec07306de7f787393b0c02ce9607084939/Screenshot%202026-08-19%20142641.png)
+Scroll down to the bottom of the page, select closed for ticket status, and click post reply.
