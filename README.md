@@ -14,4 +14,4 @@ Recommended Investigation,
 Incident Disposition, and
 Resolution/Remediation.   
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Phishing-Alert-Ticket-as-a-SOC-L1/blob/8d449cec07306de7f787393b0c02ce9607084939/Screenshot%202026-08-19%20142641.png)
-Scroll to the bottom of the page, select Closed from the ticket status dropdown, and click Post Reply to finalize and close the ticket
+Scroll to the bottom of the page, select Closed from the ticket status dropdown, and click Post Reply to finalize and close the ticket.
